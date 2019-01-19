@@ -32,6 +32,12 @@ section {
   width:auto;
   padding: 2px;
 }
+.aboutMe img{
+  display: block;
+  margin: 0 auto;
+  
+
+}
 
 .name{
   text-align: center;
