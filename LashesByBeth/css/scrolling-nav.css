@@ -35,8 +35,6 @@ section {
 .aboutMe img{
   display: block;
   margin: 0 auto;
-  
-
 }
 
 .name{
@@ -52,4 +50,23 @@ section {
 .BA{
   text-align: center;
 }
+
+.aboutMe{
+  display: inline-block;
+  align-items: center;
+  justify-content:center;
+}
+.aboutMe p{
+  padding: 20px;
+  text-align: center;
+}
+.aboutImg{
+  margin: auto;
+  width: 320px;
+}
+
+.lashInfo{
+  text-align: center;
+}
+
 
