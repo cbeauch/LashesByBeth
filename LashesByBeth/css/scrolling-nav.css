@@ -15,7 +15,11 @@ header {
 }
 
 section {
-  padding: 150px 0;
+  padding: 75px 0;
+}
+
+p{
+  color: #a3a3a3;
 }
 
 
@@ -68,6 +72,8 @@ section {
 .lashInfo{
   text-align: center;
 }
+
+
 
 .serviceBox{
     padding: 10px 10px 10px 10px;
@@ -134,5 +140,7 @@ section {
 .serviceBox:hover .description{
     color: #fff;
 }
+
+
 
 
