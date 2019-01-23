@@ -55,6 +55,12 @@ p{
   text-align: center;
 }
 
+.widget1{
+  width:640px;
+  height: auto;
+  margin: 0 auto;
+}
+
 .aboutMe{
   display: inline-block;
   align-items: center;
