@@ -22,11 +22,15 @@ header {
 }
 
 section {
-  padding: 75px 0;
+  padding: 50px 0;
 }
 
 p{
   color: #a3a3a3;
+  padding-bottom:10px;
+}
+h2{
+  padding-bottom:20px;
 }
 
 
@@ -39,9 +43,11 @@ p{
  display: inline-block;
 }
 .imgShow img{
-  height: 120px;
+  height: 220px;
   width:auto;
   padding: 2px;
+
+  
 }
 .aboutMe img{
   display: block;
@@ -62,6 +68,9 @@ p{
   text-align: center;
 }
 
+.widget1{
+  padding-bottom: 50px;
+}
 
 
 .aboutMe{
